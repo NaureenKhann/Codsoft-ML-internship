@@ -8,33 +8,24 @@ This repository contains the machine learning projects I completed during my int
 A text classification model trained on plot summaries to predict movie genres.
 Tech Stack: NLP, TF-IDF, SVM, Random Forest, Logistic Regression
 Highlights:
-
 Multiclass genre prediction
-
 Text preprocessing
-
 Confusion matrix & ROC AUC visualization
 
 2. 💳 Credit Card Fraud Detection
 Detect fraudulent credit card transactions using real transaction data.
 Tech Stack: Logistic Regression, Decision Tree, Random Forest
 Highlights:
-
 Class imbalance handling
-
 Model performance visualization (Confusion Matrix, ROC Curve)
-
 Accuracy up to 99% with Decision Trees
 
 3. 📉 Customer Churn Prediction
 Predict whether a customer will churn based on demographics and behavior.
 Tech Stack: Logistic Regression, Random Forest, Gradient Boosting
 Highlights:
-
 Feature selection and importance
-
 Predictive performance comparison
-
 Visual data exploration
 
 📊 Skills Applied
