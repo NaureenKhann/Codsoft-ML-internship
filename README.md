@@ -35,7 +35,7 @@ Model evaluation: Confusion Matrix, ROC AUC, F1-Score
 
 📌 How to Run
 # Clone the repo
-git clone https://github.com/yourusername/codsoft-ml-internship.git
+git clone https://github.com/NaureenKhann/Codsoft-ML-internship
 
 # Navigate into a project folder
 cd movie-genre-classification
